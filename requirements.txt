@@ -1,0 +1,5 @@
+streamlit==1.17.0
+pandas==1.5.1
+googleapiclient==2.12.0
+google-auth-httplib2==0.1.0
+io==0.7.0
