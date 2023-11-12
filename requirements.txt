@@ -4,4 +4,3 @@ numpy==1.24.3
 pydeck==0.8.1b0
 plotly==5.9.0
 requests==2.31.0
-io==3.7.0
