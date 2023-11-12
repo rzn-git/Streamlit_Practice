@@ -1,5 +1,0 @@
-streamlit
-pandas
-googleapiclient
-google-auth-httplib2
-io
